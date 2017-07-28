@@ -1,0 +1,3 @@
+C:/Users/trist/Dropbox/CSCI2270/FinalProject/cmake-build-debug/CMakeFiles/FinalProject.dir
+C:/Users/trist/Dropbox/CSCI2270/FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trist/Dropbox/CSCI2270/FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

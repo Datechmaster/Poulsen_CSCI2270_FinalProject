@@ -1,0 +1,10 @@
+1,Root,Root,0,0,0,0,0,0
+2,Poulsen,Tristan,1,1,0,2,1,5
+3,West,Chris,1,1,1,2,1,5
+4,Bezzina,Michael,4,5,6,3,4,5
+5,Jordan,Rachel,2,4,2,3,4,5
+6,Hollow,John,6,8,7,4,5,6
+7,Blart,Seth,9,7,8,2,6,3
+8,Loesel,Michael,7,3,8,4,6,2
+9,Follow,Karly,6,5,4,3,2,1
+11,Gordon,Kate,7,5,6,4,8,3
